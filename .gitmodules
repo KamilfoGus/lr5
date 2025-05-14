@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/KamilfoGus/lr5.git
+[submodule "lr5"]
+	path = lr5
+	url = https://github.com/KamilfoGus/lr5.git
